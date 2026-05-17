@@ -1,8 +1,8 @@
-## 怎样使用该skill
+# 怎样使用该skill
 
 「ai-enablement-diagnosis」这个技能的核心功能是 AI 阻力诊断与精准干预，专门面向 Enablement（赋能团队）与员工进行 1v1 沟通的场景。
 
-### 它做什么？
+## 它做什么？
 当员工在学习或采纳 AI 工具时表现迟滞，这个技能能帮你快速识别阻力类型，并输出针对性的干预方案和沟通话术。具体来说，它诊断四大阻力类型：
 - **惯性阻力**：员工习惯于既有工作方式，缺乏改变动力
 - **惰性阻力**：员工知道该学，但拖延、不愿投入精力
@@ -10,14 +10,37 @@
 - **抵触阻力**：员工从理念上排斥 AI，认为不靠谱或有害
 诊断完成后，它会给出个性化的干预策略和可直接使用的沟通话术，帮助 Enablement 团队有效推进员工的学习与转变。
 
-### 怎么触发它？
+## 怎么触发它？
 适用场景非常明确——当你需要：
 **诊断某位员工的 AI 学习阻力**：描述员工的表现和沟通情况，技能会帮你定性阻力类型
 **制定干预方案：针对已识别的阻力**，生成个性化的推进策略
 **准备沟通话术**：为即将到来的 1v1 对话准备有针对性的谈话要点
 
-### 例子
-**参考《AI阻力诊断案例_保险中介10年.pdf》**
+## 例子
+参考《AI阻力诊断案例_保险中介10年.pdf》
+
+---
+# How to Use This Skill
+
+The core function of the **ai-enablement-diagnosis** skill is **AI resistance diagnosis and targeted intervention**, designed specifically for 1-on-1 communication scenarios between Enablement teams and employees.
+
+## What Does It Do?
+When employees show hesitation or slow progress in learning or adopting AI tools, this skill helps you quickly identify resistance types and deliver tailored intervention plans and communication scripts. Specifically, it diagnoses four main types of resistance:
+- **Inertia Resistance**: Employees are accustomed to existing work methods and lack motivation to change.
+- **Laziness Resistance**: Employees know they should learn but procrastinate and are unwilling to invest effort.
+- **Emotional Resistance**: Employees feel anxious or fearful about AI (e.g., worrying about being replaced).
+- **Reactance Resistance**: Employees ideologically reject AI, viewing it as unreliable or harmful.
+
+After diagnosis, it provides personalized intervention strategies and ready-to-use communication scripts, enabling the Enablement team to effectively drive employee learning and behavior change.
+
+## How to Trigger It?
+The use cases are clearly defined—trigger this skill when you need to:
+- **Diagnose an employee’s AI learning resistance**: Describe the employee’s performance and communication context, and the skill will categorize the resistance type.
+- **Develop an intervention plan**: Generate personalized promotion strategies based on identified resistance.
+- **Prepare communication scripts**: Create targeted talking points for upcoming 1-on-1 conversations.
+
+## Example
+Refer to *AI Resistance Diagnosis Case_10-Year Insurance Agent.pdf*.
 ---
 
 # Human Resistance: Inertia, Laziness, Emotion, and Reactance
