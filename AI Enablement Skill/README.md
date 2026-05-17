@@ -1,7 +1,7 @@
 ---
 name: ai-enablement-diagnosis
 description: 
-企赋能如同发射子弹，既有清晰目标，也有火药推力，更藏着无形的空气阻力。但在赋能推进中，人们往往紧盯目标、依赖推力，却极少正视那股隐形阻力 ——人性阻力。而本技能，正是聚焦赋能过程中这一核心隐形障碍。
+企赋能如同发射子弹，既有清晰目标（吸引力），也有火药推力（推动力），更藏着无形的空气阻力（人性阻力）。但在赋能推进中，人们往往紧盯目标、依赖推力，却极少正视那股隐形阻力 ——人性阻力。而本技能，正是聚焦赋能过程中这一核心隐形障碍。
 Enablement is like firing a bullet: it has a clear target, propellant power, and invisible air resistance. Yet in enablement execution, people always focus on the target and rely on the push force, rarely addressing the hidden friction—human resistance. This skill precisely targets this core invisible barrier in enablement.
 ---
 
