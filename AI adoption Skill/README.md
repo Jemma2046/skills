@@ -1,4 +1,4 @@
-## 四、怎样使用该skill
+## 怎样使用该skill
 
 「ai-enablement-diagnosis」这个技能的核心功能是 AI 阻力诊断与精准干预，专门面向 Enablement（赋能团队）与员工进行 1v1 沟通的场景。
 
@@ -17,7 +17,7 @@
 **准备沟通话术**：为即将到来的 1v1 对话准备有针对性的谈话要点
 
 ### 例子
-参考《AI阻力诊断案例_保险中介10年.pdf》
+**参考《AI阻力诊断案例_保险中介10年.pdf》**
 ---
 
 # Human Resistance: Inertia, Laziness, Emotion, and Reactance
